@@ -8,7 +8,7 @@ The project is configured using MaxMSP - M4L.
 The main development steps are:
 
 - Create an M4L device that can play fixed chords on another instrument with the SoftStep MIDI pads ✅
-- The chords should be played in a middle register [developing]
+- The chords should be played in a middle register _developing_
 - The chords should be play in a harmonic way with coherent voicings every time
 - Recognize and analyse the harmonic lenguage that is being used
 - Play chords trigered by a pedal that can work in the harmonic lenguage
