@@ -4,6 +4,9 @@ Harmony chords in a new MIDI layer from MIDI or audio built in MaxMSP as a M4L d
 ## Compilation
 The project is configured using MaxMSP - M4L.
 
+## For Beta tries
+You have to set your pads to 1-8 MIDI signals (C#-2 to G#-2)
+
 ## Data input structure
 This is an example of a major chord played by the third: 1, 4 4 7;
 - The first number (1), must be the number of the line.
